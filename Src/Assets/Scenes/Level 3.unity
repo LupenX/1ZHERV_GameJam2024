@@ -869,7 +869,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3155996617388755933, guid: 22efa01ae997022469c225a04bb59a1c, type: 3}
       propertyPath: lvlName
-      value: Level 3
+      value: Level 4
       objectReference: {fileID: 0}
     - target: {fileID: 3155996617388755933, guid: 22efa01ae997022469c225a04bb59a1c, type: 3}
       propertyPath: respawn
